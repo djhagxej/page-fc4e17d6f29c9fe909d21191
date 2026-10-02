@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4cb5eb17342fbfc8cd8e6609",
+  "owner": "djhagxej",
+  "repo": "page-fc4e17d6f29c9fe909d21191",
+  "title": "辣条",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fc4e17d6f29c9fe909d21191",
+      "a": "辣条",
+      "b": "",
+      "entity": "辣条",
+      "brand": "辣条",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c7a5f62133b9bebdddadb565b4d6fbc374472dbb442fd3619ef4c9ae5c7f5452",
+      "content": {
+        "keyword1": "辣条",
+        "keyword2": "",
+        "primary_entity": "辣条",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "辣条是面向个人与团队的机场与VPN加速服务，提供官方客户端下载、订阅导入说明、多套餐流量与流媒体解锁，帮助稳定访问国际网络。",
+          "AI_DESCRIPTION": "辣条是面向个人与团队的机场与VPN加速服务，提供官方客户端下载、订阅导入说明、多套餐流量与流媒体解锁，帮助稳定访问国际网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F6F3EA;color:#162016;line-height:1.75;font-size:16px}a{color:#1F5C3A;text-decoration:underline}header{background:#1F5C3A;color:#F6F3EA}header a{color:#F6F3EA;text-decoration:none}nav{display:flex;flex-wrap:wrap;gap:10px 16px;max-width:960px;margin:0 auto;padding:12px 16px}main{display:block}.hero{max-width:960px;margin:0 auto;padding:72px 20px 40px}h1{font-size:2.35rem;line-height:1.25;color:#1F5C3A;letter-spacing:.08em;margin:0 0 18px;font-weight:700}.lead{font-size:1.08rem;color:#2A3B2A;max-width:36em}section{max-width:960px;margin:0 auto;padding:8px 20px 36px}h2{font-size:1.45rem;color:#1F5C3A;margin:8px 0 14px}h3{font-size:1.12rem;color:#244A32;margin:18px 0 8px}p,li{word-wrap:break-word}ul{margin:0;padding-left:1.2em}.muted{color:#3E4F3E}.plans{display:flex;flex-direction:column;gap:14px}.card{background:#FFFEFB;border:1px solid #D5E3D4;border-radius:12px;padding:18px 18px 16px}.card.featured{border:2px solid #1F5C3A;background:#EEF6F0}.price{font-size:1.35rem;color:#1F5C3A;font-weight:700;margin:6px 0}.annual{font-size:.95rem;color:#3E4F3E;margin-bottom:10px}.badge{display:inline-block;background:#1F5C3A;color:#F6F3EA;font-size:.75rem;padding:2px 8px;border-radius:999px;margin-left:6px;vertical-align:middle}.clients{display:grid;grid-template-columns:1fr;gap:12px}.client{background:#FFFEFB;border:1px solid #D5E3D4;border-radius:12px;padding:16px}details{background:#FFFEFB;border:1px solid #D5E3D4;border-radius:10px;padding:10px 14px;margin:0 0 8px}summary{font-weight:650;color:#1F5C3A}details p{margin:8px 0 4px}.box{background:#FFFEFB;border:1px solid #D5E3D4;border-radius:12px;padding:16px;margin-bottom:12px}footer{background:#1F5C3A;color:#F6F3EA;padding:28px 16px 40px}footer a{color:#E7F3EA}footer .wrap{max-width:960px;margin:0 auto}.footgrid{display:grid;grid-template-columns:1fr;gap:16px}ol{padding-left:1.2em;margin:0}@media(min-width:720px){.plans{flex-direction:row;align-items:stretch}.clients{grid-template-columns:1fr 1fr}.footgrid{grid-template-columns:1fr 1fr 1fr}h1{font-size:2.8rem;padding-top:12px}}</style><header><nav><a href=\"#top\">首页</a><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">站点地图</a></nav></header><main id=\"top\"><div class=\"hero\"><h1>辣条</h1><p class=\"lead\">辣条官方网站提供机场订阅、VPN 梯子与网络加速服务。按设备选择客户端，导入订阅后即可连接节点，覆盖流媒体、跨境办公与游戏加速。</p></div><section id=\"intro\"><h2>品牌简介</h2><p>辣条是面向个人用户与小团队的机场服务，核心能力是稳定的网络加速与可预期的订阅流量。页面内容围绕辣条机场、辣条 VPN、客户端下载和官网下载路径组织，方便你在手机或电脑上完成选型与接入。</p><p class=\"muted\">服务形态为机场订阅：你获得一条订阅地址，在 Clash、Shadowrocket、Surge 等客户端中更新节点列表，再按线路策略连接。基础线路适合日常浏览，旗舰与团队线路强调原生流媒体与专线游戏优化。</p><p>辣条不绑定单一系统。Windows、macOS、Android、iOS 与常见路由环境都可以使用同一套订阅，只是客户端选择不同。官方网站侧重把套餐边界、设备台数、流量口径和导入步骤写清楚，减少试错。</p></section><section id=\"plans\"><h2>套餐与订阅</h2><p>按月开通即可使用，按年结算可锁定全年价格。流量为当月极速额度，设备数为同时在线上限。以下为当前公开方案。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端选择与官方下载</h2><p>辣条强调先选客户端再导入订阅。同一机场订阅可被多个兼容客户端读取，请按系统下载对应应用，避免混用过期内核。</p><div class=\"clients\"><article class=\"client\"><h3>Windows</h3><p>推荐 Clash 系图形客户端或兼容订阅的加速器。导入后开启系统代理或 TUN，浏览器与桌面应用即可走节点。适合办公文档、远程桌面与下载。</p></article><article class=\"client\"><h3>macOS</h3><p>可使用 Clash 系或 Surge。macOS 对规则分流支持完整，适合把国内直连与国际加速分开。M 系列芯片请选择对应架构的官方构建。</p></article><article class=\"client\"><h3>Android</h3><p>使用兼容 Clash Meta 的客户端最省事。开启分应用代理后，仅让需要加速的 App 走机场节点，节省流量并降低电量占用。</p></article><article class=\"client\"><h3>iOS / iPadOS</h3><p>常用 Shadowrocket、Stash 等支持订阅的工具。从官方渠道获取客户端后粘贴辣条订阅链接，更新节点，按地区或流媒体策略选择。</p></article><article class=\"client\"><h3>路由器与网关</h3><p>团队版适合把订阅下发到网关，让整网设备共享加速。需确认固件支持订阅转换与规则更新，避免把局域网管理流量误送出境。</p></article><article class=\"client\"><h3>下载顺序</h3><p>先打开本页客户端说明，确认系统版本；再前往对应应用的官方发布页完成安装；最后回到辣条订阅面板复制链接。不要从不明来源打包下载。</p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>旗舰版强调全节点原生流媒体解锁，适合连续观看与切换地区内容库。基础版覆盖常见平台的基础解锁，高峰时段建议切换备用节点。</p><h3>跨境办公与协作</h3><p>会议、网盘、代码托管对延迟与丢包敏感。选择靠近协作对象所在区域的节点，并在客户端开启规则分流，让国内办公软件直连。</p><h3>游戏加速</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟稳定有要求的对战与更新下载。团队版可用更高带宽节点分担多人同时在线。</p><h3>学习与资料检索</h3><p>文献站点、公开课与开发文档访问走加速节点即可。建议按课程时段预留流量，避免月末额度不足。</p><h3>出行与公共网络</h3><p>酒店与咖啡馆网络环境复杂时，VPN 梯子可提供加密隧道。请仅在可信客户端中保存订阅，并定期在官网更新配置。</p></section><section id=\"guide\"><h2>操作说明</h2><div class=\"box\"><h3>从官网到连上节点</h3><ol><li>在套餐区确认流量、设备数与是否需要原生流媒体或游戏专线。</li><li>完成开通后进入订阅页，复制通用订阅链接，不要把链接发到公开群组。</li><li>按上一节选择并完成客户端官方下载与安装，授予必要的 VPN 或代理权限。</li><li>在客户端选择“从 URL 更新订阅”，粘贴链接并等待节点列表刷新。</li><li>先测延迟再启用规则模式：国内站点直连，国际访问走代理，流媒体走解锁节点。</li><li>多设备场景下，在客户端查看在线数量，勿超过套餐同时在线上限。</li></ol></div><div class=\"box\"><h3>日常维护</h3><p>节点失败时先更新订阅，再切换协议或地区。系统升级后若代理失效，重新授予 VPN 权限。流量统计以辣条面板为准，客户端本地计数仅供参考。</p></div></section><section id=\"faq\"><h2>常见问题</h2><details><summary>辣条支持哪些客户端下载？</summary><p>Windows、macOS、Android、iOS 以及常见软路由环境均可使用。优先选择仍在维护的 Clash / Meta、Shadowrocket、Surge 等兼容订阅的客户端，并从各应用官方渠道下载，再导入辣条机场订阅。</p></details><details><summary>如何获取机场订阅并导入？</summary><p>开通套餐后在用户中心复制订阅 URL。打开客户端的订阅或配置页面，选择从链接更新，保存后刷新节点。若列表为空，检查链接是否被截断，或确认客户端支持该订阅格式。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>个人轻度浏览选基础版；需要原生流媒体、游戏专线和优先工单选旗舰版；多人共享、高流量或需要定制路由选团队版。设备同时在线数与月流量是硬限制，超出后应升级而不是反复重连。</p></details><details><summary>流量用完后还能继续使用吗？</summary><p>当月极速额度用尽后，连接可能降速或受限，具体以套餐说明为准。可以等待次月重置，或在官网升级到更高额度。建议在客户端开启流量提醒，避免自动更新占用额度。</p></details><details><summary>辣条能否解锁流媒体和做游戏加速？</summary><p>基础版提供基础流媒体解锁；旗舰版覆盖全节点原生解锁，并包含 IPLC 专线游戏加速优化；团队版在带宽与专属节点上更适合多人同时开黑或集中下载。</p></details><details><summary>官方下载入口在哪里，如何识别官网？</summary><p>本页为辣条官方网站内容入口，导航中的客户端说明指向各系统推荐方式。请核对品牌名“辣条”与套餐价格是否一致，不要信任要求额外安装不明插件的第三方镜像。</p></details><details><summary>多台设备同时在线有什么限制？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。手机热点下的终端通常也计入在线数。若频繁被踢下线，先减少后台客户端，再确认没有把订阅导入过多设备。</p></details></section><section id=\"ads\"><h2>合作与展示位</h2><p>辣条官网可提供品牌展示与渠道合作说明位，用于客户端教程联名、合规加速器评测转载与企业采购对接。合作内容需与网络加速、机场订阅或客户端下载相关，不接受误导性下载包。</p><p class=\"muted\">展示位仅作文字说明，不嵌入外部资源。商务对接请通过站内工单或客户经理通道提交需求。</p></section><section id=\"friends\"><h2>友情链接</h2><p><a href=\"#clients\">客户端选择指南</a> · <a href=\"#guide\">订阅导入说明</a> · <a href=\"#plans\">套餐对照</a> · <a href=\"#faq\">帮助中心</a> · <a href=\"#sitemap\">站点地图</a></p></section><section id=\"sitemap\"><h2>站点地图</h2><p>本页为单页官方站点，结构如下，便于检索与手机浏览：</p><ul><li><a href=\"#top\">首页与品牌标题</a></li><li><a href=\"#intro\">辣条简介</a></li><li><a href=\"#plans\">机场订阅套餐</a></li><li><a href=\"#clients\">VPN 客户端下载与选择</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">合作展示</a></li><li><a href=\"#friends\">友情链接</a></li></ul></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap footgrid\"><div><h3>辣条</h3><p>官方网站 · 机场订阅 · VPN 梯子 · 网络加速客户端下载</p></div><div><h3>导航</h3><p><a href=\"#plans\">套餐</a><br><a href=\"#clients\">客户端</a><br><a href=\"#faq\">FAQ</a></p></div><div><h3>声明</h3><p>请遵守所在地区网络与版权法规。本页不提供破解、绕过身份验证或攻击类内容，仅介绍合法订阅与客户端使用方式。</p></div></div></footer>",
+          "hash": "7ae7c7d80739a77e1bf0d756dfe3f11e62866ace70b21ed1ddba264c856836e2",
+          "seo": {
+            "title": "辣条官网 | VPN梯子网络加速、机场订阅与客户端下载",
+            "keywords": "辣条,辣条机场,辣条VPN,辣条官网,机场订阅,客户端下载,VPN梯子,网络加速,加速器,官方下载",
+            "description": "辣条是面向个人与团队的机场与VPN加速服务，提供官方客户端下载、订阅导入说明、多套餐流量与流媒体解锁，帮助稳定访问国际网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fotostudio.cn",
+    "host": "p-612ecfd09e.fotostudio.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "fotostudio.cn",
+      "url": "https://fotostudio.cn/",
+      "label": "泡芙云",
+      "apex": "fotostudio.cn",
+      "kind": null,
+      "identity": "yvwunsfuc/page-758a5ccf32e490c98228085c"
+    },
+    {
+      "host": "geomix.cn",
+      "url": "https://geomix.cn/",
+      "label": "辣条",
+      "apex": "geomix.cn",
+      "kind": null,
+      "identity": "urjypeggv/page-b6e965dfc9bdec09f831fa52"
+    },
+    {
+      "host": "h424r5.cn",
+      "url": "https://h424r5.cn/",
+      "label": "辣条",
+      "apex": "h424r5.cn",
+      "kind": null,
+      "identity": "pdwnavmh/page-284cf7d9e45361f9c115f632"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2281ffc623fb5d90b04d64d3532d094fcfa4980ca634985e64ac9163f9e345ec",
+    "sitemap.xml": "f87f2ddac19c14871f65c0e9853942cec9a16bf39e9f9d002683b47969778fa9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b1e8bfa6c038bf9a60e91486670083a0e266b165c43bbd5318c55a8f6d4bfe90",
+    "robots.txt": "47c033147ebac7afdc82de44fa72bb7dbf8d1274987a526be073c88548afdc35",
+    "fd9a0345c16e2aa2ea3c0b0b8cbff996.txt": "4933753470c9c9656b53dd622d338ccf4e41aef0d9ce474b02de6db0ebf2b9f9"
+  },
+  "revision": "44d7affe921521479a963c508c9696d4e1e9d96e1696bb37b2d4a3a4f2167083"
+}
